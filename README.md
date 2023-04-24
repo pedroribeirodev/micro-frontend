@@ -2,4 +2,4 @@
 
 # Links:
 
-https://github.com/pedroribeirodev/micro-frontend.git
+https://pedroribeirodev.github.io/design-system/
