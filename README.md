@@ -19,3 +19,7 @@ https://www.npmjs.com/package/@pedro-marketplace/docs
 https://github.com/pedroribeirodev/mfe-about
 
 ### Github Página Home
+https://github.com/pedroribeirodev/mfe-home
+
+### Github Container
+https://github.com/pedroribeirodev/mfe-container
